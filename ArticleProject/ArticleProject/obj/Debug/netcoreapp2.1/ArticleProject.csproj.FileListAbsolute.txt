@@ -1,0 +1,14 @@
+C:\Users\FurkanPC\Desktop\ArticleProject\ArticleProject\bin\Debug\netcoreapp2.1\ArticleProject.deps.json
+C:\Users\FurkanPC\Desktop\ArticleProject\ArticleProject\bin\Debug\netcoreapp2.1\ArticleProject.runtimeconfig.json
+C:\Users\FurkanPC\Desktop\ArticleProject\ArticleProject\bin\Debug\netcoreapp2.1\ArticleProject.runtimeconfig.dev.json
+C:\Users\FurkanPC\Desktop\ArticleProject\ArticleProject\bin\Debug\netcoreapp2.1\ArticleProject.dll
+C:\Users\FurkanPC\Desktop\ArticleProject\ArticleProject\bin\Debug\netcoreapp2.1\ArticleProject.pdb
+C:\Users\FurkanPC\Desktop\ArticleProject\ArticleProject\obj\Debug\netcoreapp2.1\ArticleProject.csproj.CoreCompileInputs.cache
+C:\Users\FurkanPC\Desktop\ArticleProject\ArticleProject\obj\Debug\netcoreapp2.1\ArticleProject.RazorAssemblyInfo.cache
+C:\Users\FurkanPC\Desktop\ArticleProject\ArticleProject\obj\Debug\netcoreapp2.1\ArticleProject.RazorAssemblyInfo.cs
+C:\Users\FurkanPC\Desktop\ArticleProject\ArticleProject\obj\Debug\netcoreapp2.1\ArticleProject.AssemblyInfoInputs.cache
+C:\Users\FurkanPC\Desktop\ArticleProject\ArticleProject\obj\Debug\netcoreapp2.1\ArticleProject.AssemblyInfo.cs
+C:\Users\FurkanPC\Desktop\ArticleProject\ArticleProject\obj\Debug\netcoreapp2.1\ArticleProject.RazorTargetAssemblyInfo.cache
+C:\Users\FurkanPC\Desktop\ArticleProject\ArticleProject\obj\Debug\netcoreapp2.1\ArticleProject.dll
+C:\Users\FurkanPC\Desktop\ArticleProject\ArticleProject\obj\Debug\netcoreapp2.1\ArticleProject.pdb
+C:\Users\FurkanPC\Desktop\ArticleProject\ArticleProject\obj\Debug\netcoreapp2.1\ArticleProject.csprojAssemblyReference.cache
